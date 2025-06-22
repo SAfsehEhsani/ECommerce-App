@@ -9,15 +9,15 @@ It uses real-time product data from the **Fake Store API**.
 
 ## App Features
 
-- ✅ Splash screen with animation  
-- ✅ Login screen with validation  
-- ✅ Dashboard with category-wise product display  
-- ✅ Product details page  
-- ✅ Add to cart and wishlist  
-- ✅ Edit/delete cart items   
-- ✅ Named route navigation  
-- ✅ Responsive UI  
-- ✅ Error handling for API failures
+-  Splash screen with animation  
+-  Login screen with validation  
+-  Dashboard with category-wise product display  
+-  Product details page  
+-  Add to cart and wishlist  
+-  Edit/delete cart items   
+-  Named route navigation  
+-  Responsive UI  
+-  Error handling for API failures
 
 ---
 
