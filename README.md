@@ -5,7 +5,7 @@ A clean, responsive, and dynamic **Ecommerce mobile application** built using **
 It uses real-time product data from the **Fake Store API**.
 
 ---
-## APK FILE IS ALREADY IN THIS
+## APK FILE: https://drive.google.com/file/d/1tfgRx-XFt2f-YoKKSsY8XVrLnuqsVfKM/view?usp=sharing
 
 ## App Features
 
